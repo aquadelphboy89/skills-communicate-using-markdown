@@ -8,3 +8,10 @@
 mensaje = "Hola, mundo!"
 print(mensaje)
 ```
+
+- [ ] Elemento 1
+- [X]Elemento 1 seleccionado
+- [ ] Elemento 2
+- [ ] Elemento 3
+- [X] Elemento 2 seleccionado
+- [ ] Elemento 4
